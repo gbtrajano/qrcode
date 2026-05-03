@@ -10,13 +10,10 @@ export default function Home() {
     >
       <div className="mx-auto flex min-h-screen max-w-4xl items-center justify-center px-4 py-10 sm:px-6 lg:px-8">
         <div className="relative w-full rounded-4xl border border-slate-800/80 bg-slate-950/95 p-8 shadow-2xl shadow-slate-950/30 backdrop-blur-xl">
-          <span className="pointer-events-none absolute right-6 top-6 text-[11px] uppercase tracking-[0.35em] text-slate-400/40">
-            SupplySistemas
-          </span>
           <div className="mb-8 flex items-center justify-between gap-6 rounded-3xl border border-slate-800/70 bg-slate-900/90 p-6">
             <div>
               <p className="text-xs uppercase tracking-[0.35em] text-orange-300/80">
-                Gerador
+                Supply Sistemas
               </p>
               <h1 className="mt-3 text-4xl font-semibold text-white">
                 Crie seu QR Code agora
